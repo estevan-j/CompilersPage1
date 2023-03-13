@@ -1,0 +1,49 @@
+
+.title-h1 {
+    color: red;
+    text-align: center;
+    text-shadow: 6px 3px 5px #35374d;
+}
+
+.container {
+    text-align: center;
+}
+
+.subtitle {
+    text-align: left;
+}
+
+.sub-container {
+    text-align: justify;
+}
+
+#title-Index {
+    text-align: left;
+}
+
+#paragraph {
+    text-align: justify;
+}
+
+#paragraph-compilador {
+    text-align: justify;
+    margin: 10px;
+}
+
+.div-compilador {
+    margin: 10px;
+    text-align: justify;
+}
+
+.img-compilador {
+    text-align: center;
+}
+
+a {
+    text-decoration: none;
+    text-shadow: 6px 3px 5px #35374d;
+}
+
+td {
+    text-align: justify;
+}
